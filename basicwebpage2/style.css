@@ -98,7 +98,7 @@ header, nav, main, footer { display: block; }
 
 img { border: 0; }
 
-#bannermain { background-image: url("/images/mepixelated.jpg");
+#shock { background-image: url("/images/SeanShock.png");
            background-size: 100% 100%;
 		   height: 250px; }
  
